@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/use-callback-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/use-callback-hook/static/js/main.93e72885.js",
+    "static/js/592.a2f68602.chunk.js": "/use-callback-hook/static/js/592.a2f68602.chunk.js",
+    "index.html": "/use-callback-hook/index.html",
+    "main.e6c13ad2.css.map": "/use-callback-hook/static/css/main.e6c13ad2.css.map",
+    "main.93e72885.js.map": "/use-callback-hook/static/js/main.93e72885.js.map",
+    "592.a2f68602.chunk.js.map": "/use-callback-hook/static/js/592.a2f68602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.93e72885.js"
+  ]
+}
